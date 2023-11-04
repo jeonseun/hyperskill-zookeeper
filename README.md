@@ -2,9 +2,11 @@
 
 hyperskill java project
 
+## 개요
 
 동물원 내 동물의 상태 확인을 위한 애플리케이션
 
+## 배운 것
 
 - 변수 선언과 리터럴
 - `System.out.println()`을 활용한 기본 출력 처리
