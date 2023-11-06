@@ -6,9 +6,12 @@ hyperskill java project
 
 동물원 내 동물의 상태 확인을 위한 애플리케이션
 
-## 환경
+![gif](./zookeeper.gif)
+
+## 개발 환경
 
 - Java 17
+- IntelliJ IDEA 2023.2.3 (Ultimate Edition)
 
 ## 배운 것
 
