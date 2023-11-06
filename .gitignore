@@ -15,5 +15,4 @@ build
 !/Zookeeper (Java)/task/src
 
 # Project exclude paths
-/Topics/**/out/
-/Topics/**/out/production/classes/
+Topics/
