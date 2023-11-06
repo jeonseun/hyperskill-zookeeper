@@ -1,3 +1,19 @@
-.idea
-out
+# course config files
+*.yaml
+
+# gradle
+.gradle/
 build
+
+# idea config
+.idea
+
+# old stages
+/Zookeeper (Java)/*
+!/Zookeeper (Java)/task/
+/Zookeeper (Java)/task/*
+!/Zookeeper (Java)/task/src
+
+# Project exclude paths
+/Topics/**/out/
+/Topics/**/out/production/classes/
